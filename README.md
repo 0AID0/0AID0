@@ -8,7 +8,7 @@
 
 ### Технологии
 ###
-![logo@3x](https://github.com/0AID0/0AID0/assets/168955155/95fbd0ef-3014-4f97-a105-70ecbf08e03b)
+![image](https://github.com/0AID0/0AID0/assets/168955155/c521f410-54aa-43af-8f78-b06928096e31)
 ![python_18894](https://github.com/0AID0/0AID0/assets/168955155/0998e547-c532-496b-aa3e-6820237a5e64)
 ![brackets_22570](https://github.com/0AID0/0AID0/assets/168955155/ed2a863f-8f63-4793-b980-a3cff4606d89)
 ![загруженное](https://github.com/0AID0/0AID0/assets/168955155/215e4b24-5acb-4b87-9632-e26e8c5d9033)
