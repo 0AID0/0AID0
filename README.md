@@ -9,4 +9,5 @@
 ### Технологии
 ###
 
-![alt text](https://github.com/[username]/[reponame]/blob/[branch]/image.jpg?raw=true)
+![alt text](<img width="48" alt="microsoft_visual_studio_code_alt_macos_bigsur_icon_189954" src="https://github.com/0AID0/0AID0/assets/168955155/64e002b3-c44f-40fe-9417-9f518f2b79e8">
+)
