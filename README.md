@@ -14,7 +14,8 @@
 
 
 ### 🛠️Технологии
-![212284158-e840e285-664b-44d7-b79b-e264b5e54825](https://github.com/0AID0/0AID0/assets/168955155/993e160e-5559-462e-8649-f3ba56c76718)
+![212284158-e840e285-664b-44d7-b79b-e264b5e54825 (1)](https://github.com/0AID0/0AID0/assets/168955155/7f90b1c6-2c34-41b0-8419-0eb3f49eb5e9)
+
 
 ###
 ![image](https://github.com/0AID0/0AID0/assets/168955155/c521f410-54aa-43af-8f78-b06928096e31)
