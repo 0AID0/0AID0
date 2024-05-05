@@ -9,5 +9,5 @@
 ### Технологии
 ###
 
-![alt text](<img width="48" alt="microsoft_visual_studio_code_alt_macos_bigsur_icon_189954" src="https://github.com/0AID0/0AID0/assets/168955155/64e002b3-c44f-40fe-9417-9f518f2b79e8">
+![alt text](<img width="48" alt="microsoft_visual_studio_code_alt_macos_bigsur_icon_189954" src="https://github.com/0AID0/0AID0/assets/168955155/94ba03b0-6336-41d4-9599-04c34d412403">
 )
