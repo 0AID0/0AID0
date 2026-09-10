@@ -10,6 +10,12 @@
 
 ---
 
+### 🚀 Мои проекты
+
+- 🛡️ [Web App Security System](https://github.com/0AID0/web-app-security-system) — платформа по кибербезопасности
+- 🏛️ [Tax Office System](https://github.com/0AID0/tax-office-system) — учёт физлиц в налоговой
+- 📜 [Certificates](https://github.com/0AID0/certificates) — сертификаты и олимпиады
+
 ### 🛠️ Технологии
 
 <p align="left">
