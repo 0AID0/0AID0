@@ -26,7 +26,7 @@
 ### 📫 Как со мной связаться
 
 - 💬 Telegram: [@Artem196996](https://t.me/Artem196996)
-- 📧 Email: *(вставь свою почту)*
+- 📧 Email: *(it.work1904@list.ru)*
 
 ---
 
