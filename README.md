@@ -12,20 +12,48 @@
 
 ### 🚀 Мои проекты
 
-- 🛡️ [Web App Security System](https://github.com/0AID0/web-app-security-system) — платформа по кибербезопасности
-- 🏛️ [Tax Office System](https://github.com/0AID0/tax-office-system) — учёт физлиц в налоговой
-- 📜 [Certificates](https://github.com/0AID0/certificates) — сертификаты и олимпиады
+- 🛡️ **[Web App Security System](https://github.com/0AID0/web-app-security-system)** — 
+  интерактивная платформа по кибербезопасности: 15+ модулей 
+  (AES/RSA/ECC, JWT, OAuth, MFA, Firewall, IDS/IPS).
+  
+- 🏛️ **[Tax Office System](https://github.com/0AID0/tax-office-system)** — 
+  программный комплекс учёта физлиц в налоговой (курсовая работа): 
+  JavaScript, HTML, CSS.
+  
+- 📜 **[Certificates](https://github.com/0AID0/certificates)** — 
+  сертификаты международных олимпиад «Траектория будущего» и «IT-Планета», 
+  курсы Минцифры России.
+
+  🏆 Достижения:
+
+• Международная олимпиада «Траектория будущего» (2024) — входит в Перечень 
+  рекомендованных мероприятий Минпросвещения России:
+  — Python (нейросети) — 90/90 (100%)
+  — Java — 91/100
+  — Информационная безопасность — 94/119
+  — Инженер внедрения СЗИ (DLP) — 25/30
+  — Astra Linux — 74/100
+
+• Международная олимпиада «IT-Планета 2024» — участник 9 конкурсов, 
+  прошёл во 2-й этап:
+  — Администрирование Astra Linux — 93.3%
+  — iSpring (разработка курсов) — 62.2%
+
+• Сертификат Минцифры России: «ВебМастер. Веб-разработка на JavaScript» — 144 ч.
+
+• Призёр конкурса «Молодой специалист» от Центра занятости 
+  Приморского края (2025).
+
+• Серебряный знак отличия ГТО. Бокс, самбо (любительский уровень).
+
+📜 Все сертификаты: https://github.com/0AID0/certificates
 
 ### 🛠️ Технологии
 
-<p align="left">
-  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" />
-  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" />
-  <img src="https://img.shields.io/badge/1C-FFD700?style=for-the-badge&logo=1c&logoColor=black" />
-  <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" />
-  <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" />
-  <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" />
-</p>
+![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white)
+![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
+![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white)
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-336791?style=for-the-badge&logo=postgresql&logoColor=white)
 
 ---
 
