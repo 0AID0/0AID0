@@ -1,23 +1,36 @@
-  ![image (2) (1)](https://github.com/0AID0/0AID0/assets/168955155/f9ca6f4a-3caf-4a0c-b05d-76950e867d23)
+### 👋 Привет! Меня зовут Артём
 
+Я дипломированный программист по специальности **«Информационные системы и программирование»**.
+Год назад закончил колледж и отслужил в армии. Сейчас активно развиваюсь в IT и ищу возможности для профессионального роста.
 
-Я начинающий IT Разработчик, Студент по курсу "Информационные системы и программирование" осваиваю такие языки как (Python, JavaScript, 1C:Предприятие).
+- 🎓 **Образование:** Колледж, специальность «Информационные системы и программирование»
+- 💻 **Языки:** Python, JavaScript, 1С:Предприятие
+- 📚 **Сейчас изучаю:** JavaScript (онлайн-курсы)
+- 🏅 **Достижения:** Имею сертификаты о прохождении онлайн-курсов
+- 💪 **О себе:** Армия научила дисциплине и работе в команде, колледж дал базу. Готов применять навыки на практике.
 
-<h3 align="left">👩‍💻  Обо мне</h3>
-Я начинающий IT разработчик. Зовут меня Артём, я студент по специальности "Информационные системы и программирование" изучаю такие языки программирования как (Python, Javascript, 1C:Предприятие). в периоде своего обучения я проходит онлайн курсы в сфере IT технологий для повышения знаний в этой сфере а также приобрёл сертификаты по прохождению, на сегодняшний день прохожу онлайн курс по "JavaScript".
+---
 
+### 🛠️ Технологии
 
+<p align="left">
+  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" />
+  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" />
+  <img src="https://img.shields.io/badge/1C-FFD700?style=for-the-badge&logo=1c&logoColor=black" />
+  <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" />
+  <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" />
+  <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" />
+</p>
 
-![212750155-3ceddfbd-19d3-40a3-87af-8d329c8323c4](https://github.com/0AID0/0AID0/assets/168955155/45690b5c-bb3e-40b5-80d0-7d9883fdd14c)
+---
 
+### 📫 Как со мной связаться
 
+- 💬 Telegram: [@Artem196996](https://t.me/Artem196996)
+- 📧 Email: *(вставь свою почту)*
 
+---
 
-### 🛠️Технологии
-
-###
-![image](https://github.com/0AID0/0AID0/assets/168955155/c521f410-54aa-43af-8f78-b06928096e31)
-![python_18894](https://github.com/0AID0/0AID0/assets/168955155/0998e547-c532-496b-aa3e-6820237a5e64)
-![brackets_22570](https://github.com/0AID0/0AID0/assets/168955155/ed2a863f-8f63-4793-b980-a3cff4606d89)
-![загруженное](https://github.com/0AID0/0AID0/assets/168955155/215e4b24-5acb-4b87-9632-e26e8c5d9033)
-
+<p align="center">
+  <i>«Учись, пробуй, не сдавайся — и всё получится.»</i>
+</p>
