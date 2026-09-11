@@ -89,7 +89,7 @@
 
 ![Profile views](https://komarev.com/ghpvc/?username=0AID0&color=blue&style=for-the-badge)
 
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=0AID0&layout=compact&theme=tokyonight&hide_border=true)
+![GitHub Streak](https://streak-stats.demolab.com?user=0AID0&theme=tokyonight&hide_border=true)
 
 ---
 
