@@ -100,7 +100,6 @@
 
 - 🎯 **Ищу:** Junior JavaScript / Python Developer, Junior ИБ-специалист.
 - 🌍 **Формат:** офис / удалёнка / гибрид.
-- 💬 **Связь:** [Telegram](https://t.me/Artem196996) — отвечаю быстро.
 
 ---
 
