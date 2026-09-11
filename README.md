@@ -87,9 +87,13 @@
 
 ### 📊 Статистика
 
-![Profile views](https://komarev.com/ghpvc/?username=0AID0&color=1a1b27&style=for-the-badge&label=PROFILE+VIEWS)
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=0AID0&color=1a1b27&style=for-the-badge&label=PROFILE+VIEWS" />
+</p>
 
-![GitHub Streak](https://streak-stats.demolab.com?user=0AID0&theme=tokyonight&hide_border=true)
+<p align="center">
+  <img src="https://streak-stats.demolab.com?user=0AID0&theme=tokyonight&hide_border=true" />
+</p>
 
 ---
 
