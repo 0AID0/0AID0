@@ -97,10 +97,6 @@
 
 ---
 
-<p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=0AID0&theme=tokyonight&no-frame=true&row=1&column=6" />
-</p>
-
 ### 📫 Как со мной связаться
 
 - 💬 Telegram: [@Artem196996](https://t.me/Artem196996)
