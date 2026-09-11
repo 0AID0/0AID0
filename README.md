@@ -58,6 +58,12 @@
   сертификаты международных олимпиад «Траектория будущего» и «IT-Планета», 
   курсы Минцифры России.
 
+
+  ### 🏙️ Мой GitHub Skyline
+
+![GitHub Skyline](https://skyline.github.com/0AID0/2024.png)
+
+
 ### 🌐 Живые демонстрации
 
 - 🛡️ **[Web App Security System](https://0aid0.github.io/web-app-security-system/web-app-security-system/index.html)**
